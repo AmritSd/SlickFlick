@@ -1,0 +1,16 @@
+#movie_form
+{
+    position:absolute;
+    top:57%;
+    left:32%;
+    width:30%;
+    padding:20px;
+    border:solid;
+    border-radius:5px;
+    background-color:rgba(160, 0, 255, 0.22);
+}
+.form-control
+{
+    margin:5px;
+}
+

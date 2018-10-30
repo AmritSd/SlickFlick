@@ -1,0 +1,34 @@
+    .alert-danger,.alert-info
+    {
+        text-align:center;
+
+    }
+    
+input[type=checkbox]
+{
+    transform: scale(2);
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+
+    position:relative;
+    left:10px;
+
+    background:transparent;
+
+}
+    #showButton
+    {
+        background-color:transparent;
+        position:relative;
+
+        border-radius:4px;
+        color:inherit;
+        border:solid;
+        border-color:inherit;
+        border-width:2px;
+    }
+    #submitButton
+    {
+        position:relative;
+        left:45%;
+    }

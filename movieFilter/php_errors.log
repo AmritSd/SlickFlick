@@ -1,0 +1,531 @@
+[17-Apr-2017 09:46:32 UTC] PHP Warning:  include(header1.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/movieFilter/html/home.php on line 14
+[17-Apr-2017 09:46:32 UTC] PHP Stack trace:
+[17-Apr-2017 09:46:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/html/home.php:0
+[17-Apr-2017 09:46:32 UTC] PHP Warning:  include(): Failed opening 'header1.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/movieFilter/html/home.php on line 14
+[17-Apr-2017 09:46:32 UTC] PHP Stack trace:
+[17-Apr-2017 09:46:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/html/home.php:0
+[17-Apr-2017 10:15:47 UTC] PHP Warning:  include(test.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/movieFilter/php/signup.php on line 2
+[17-Apr-2017 10:15:47 UTC] PHP Stack trace:
+[17-Apr-2017 10:15:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[17-Apr-2017 10:15:47 UTC] PHP Warning:  include(): Failed opening 'test.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/movieFilter/php/signup.php on line 2
+[17-Apr-2017 10:15:47 UTC] PHP Stack trace:
+[17-Apr-2017 10:15:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[17-Apr-2017 10:15:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 6
+[17-Apr-2017 10:15:47 UTC] PHP Stack trace:
+[17-Apr-2017 10:15:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[18-Apr-2017 10:33:17 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ubuntu/workspace/movieFilter/php/login.php on line 11
+[18-Apr-2017 10:33:17 UTC] PHP Stack trace:
+[18-Apr-2017 10:33:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/login.php:0
+[19-Apr-2017 06:28:59 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/movieFilter/php/signup.php on line 20
+[19-Apr-2017 06:28:59 UTC] PHP Stack trace:
+[19-Apr-2017 06:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[19-Apr-2017 06:28:59 UTC] PHP   2. password_hash() /home/ubuntu/workspace/movieFilter/php/signup.php:20
+[19-Apr-2017 06:29:24 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/movieFilter/php/login.php on line 7
+[19-Apr-2017 06:29:24 UTC] PHP Stack trace:
+[19-Apr-2017 06:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/login.php:0
+[19-Apr-2017 06:29:24 UTC] PHP   2. password_hash() /home/ubuntu/workspace/movieFilter/php/login.php:7
+[19-Apr-2017 06:30:05 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/movieFilter/php/login.php on line 7
+[19-Apr-2017 06:30:05 UTC] PHP Stack trace:
+[19-Apr-2017 06:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/login.php:0
+[19-Apr-2017 06:30:05 UTC] PHP   2. password_hash() /home/ubuntu/workspace/movieFilter/php/login.php:7
+[19-Apr-2017 06:32:39 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/movieFilter/php/signup.php on line 20
+[19-Apr-2017 06:32:39 UTC] PHP Stack trace:
+[19-Apr-2017 06:32:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[19-Apr-2017 06:32:39 UTC] PHP   2. password_hash() /home/ubuntu/workspace/movieFilter/php/signup.php:20
+[19-Apr-2017 06:32:55 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/movieFilter/php/login.php on line 7
+[19-Apr-2017 06:32:55 UTC] PHP Stack trace:
+[19-Apr-2017 06:32:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/login.php:0
+[19-Apr-2017 06:32:55 UTC] PHP   2. password_hash() /home/ubuntu/workspace/movieFilter/php/login.php:7
+[19-Apr-2017 06:57:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/movieFilter/php/login.php on line 23
+[19-Apr-2017 07:09:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 13
+[19-Apr-2017 07:09:22 UTC] PHP Stack trace:
+[19-Apr-2017 07:09:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[19-Apr-2017 07:09:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 13
+[19-Apr-2017 07:09:27 UTC] PHP Stack trace:
+[19-Apr-2017 07:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[19-Apr-2017 07:10:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 31
+[19-Apr-2017 07:10:37 UTC] PHP Stack trace:
+[19-Apr-2017 07:10:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[19-Apr-2017 17:27:27 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=india-talkies&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:27:27 UTC] PHP Stack trace:
+[19-Apr-2017 17:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:27:27 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:27:34 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=ktv&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:27:34 UTC] PHP Stack trace:
+[19-Apr-2017 17:27:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:27:34 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:28:28 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema-hd&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:28:28 UTC] PHP Stack trace:
+[19-Apr-2017 17:28:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:28:28 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:29:03 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=india-talkies&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:29:03 UTC] PHP Stack trace:
+[19-Apr-2017 17:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:29:03 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:29:06 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=ktv&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:29:06 UTC] PHP Stack trace:
+[19-Apr-2017 17:29:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:29:06 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:29:29 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema-hd&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:29:29 UTC] PHP Stack trace:
+[19-Apr-2017 17:29:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:29:29 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 17:29:42 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-talkies&date=&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 9
+[19-Apr-2017 17:29:42 UTC] PHP Stack trace:
+[19-Apr-2017 17:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[19-Apr-2017 17:29:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:9
+[19-Apr-2017 18:51:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 31
+[19-Apr-2017 18:51:30 UTC] PHP Stack trace:
+[19-Apr-2017 18:51:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 16:20:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'preferences' in /home/ubuntu/workspace/movieFilter/php/test.php on line 11
+[21-Apr-2017 16:20:06 UTC] PHP Stack trace:
+[21-Apr-2017 16:20:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 16:20:06 UTC] PHP   2. include() /home/ubuntu/workspace/movieFilter/php/signup.php:4
+[21-Apr-2017 16:20:06 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/movieFilter/php/test.php:11
+[21-Apr-2017 16:20:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 20
+[21-Apr-2017 16:20:06 UTC] PHP Stack trace:
+[21-Apr-2017 16:20:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 16:22:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 20
+[21-Apr-2017 16:22:16 UTC] PHP Stack trace:
+[21-Apr-2017 16:22:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 16:24:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 24
+[21-Apr-2017 16:24:42 UTC] PHP Stack trace:
+[21-Apr-2017 16:24:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 17:28:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 24
+[21-Apr-2017 17:28:48 UTC] PHP Stack trace:
+[21-Apr-2017 17:28:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 17:37:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 23
+[21-Apr-2017 17:37:58 UTC] PHP Stack trace:
+[21-Apr-2017 17:37:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 17:40:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 23
+[21-Apr-2017 17:40:03 UTC] PHP Stack trace:
+[21-Apr-2017 17:40:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 17:42:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/signup.php on line 21
+[21-Apr-2017 17:42:59 UTC] PHP Stack trace:
+[21-Apr-2017 17:42:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Apr-2017 18:09:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/movieFilter/php/preferences.php on line 9
+[21-Apr-2017 18:09:45 UTC] PHP Stack trace:
+[21-Apr-2017 18:09:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/preferences.php:0
+[21-Apr-2017 19:34:06 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/movieFilter/php/../include/latest/2017-04-20.json): No such file or directory in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 7
+[21-Apr-2017 19:34:06 UTC] PHP Stack trace:
+[21-Apr-2017 19:34:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:34:06 UTC] PHP   2. unlink() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:7
+[21-Apr-2017 19:34:24 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/movieFilter/php/../include/latest/2017-04-20.json): No such file or directory in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 7
+[21-Apr-2017 19:34:24 UTC] PHP Stack trace:
+[21-Apr-2017 19:34:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:34:24 UTC] PHP   2. unlink() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:7
+[21-Apr-2017 19:38:31 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/movieFilter/php/../include/latest/2017-04-20.json): No such file or directory in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 7
+[21-Apr-2017 19:38:31 UTC] PHP Stack trace:
+[21-Apr-2017 19:38:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:38:31 UTC] PHP   2. unlink() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:7
+[21-Apr-2017 19:42:17 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/movieFilter/php/../include/latest/2017-04-20.json): No such file or directory in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 7
+[21-Apr-2017 19:42:17 UTC] PHP Stack trace:
+[21-Apr-2017 19:42:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:42:17 UTC] PHP   2. unlink() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:7
+[21-Apr-2017 19:52:45 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=asianet-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:45 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:45 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:45 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=b4u-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:45 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:45 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:46 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=cinema-tv&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:46 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:46 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:47 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=filmy&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:47 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:47 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:48 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=hbo&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:48 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:48 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:49 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=hbo-hits&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:49 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:50 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=india-talkies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:50 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:50 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:52 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=jalsha-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:52 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:52 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:52 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=jaya-movie&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:52 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:52 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:53 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=kiran-tv&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:53 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:53 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:53 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=ktv&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:53 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:53 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:52:56 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=maa-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:52:56 UTC] PHP Stack trace:
+[21-Apr-2017 19:52:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:52:56 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:02 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=movies-now&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:02 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:02 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:02 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=movies-now-plus&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:02 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:02 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:03 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=movies-ok&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:03 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:03 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:04 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=raj-digital-plus&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:04 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:04 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:05 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=romedy-now&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:05 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:05 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:05 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=sony-max&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:05 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:05 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:07 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=sony-pix&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:07 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:07 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:07 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=star-gold&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:07 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:07 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:08 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=star-gold-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:08 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:08 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:09 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:09 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:09 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:10 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:10 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:10 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:10 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:10 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:10 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:11 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=utv-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:11 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:11 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:12 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=utv-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:12 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:12 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:12 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=wb&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:12 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:12 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:13 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=world-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:13 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:13 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:14 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:14 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:14 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:19 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:19 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:19 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:24 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:24 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:24 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:29 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-classic&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:29 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:29 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:34 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-premier&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:34 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:34 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:37 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-studio-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:37 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:37 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:53:37 UTC] PHP Warning:  file_get_contents(http://indian-tv-schedule-api.appspot.com/schedule?channel=zee-talkies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:53:37 UTC] PHP Stack trace:
+[21-Apr-2017 19:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:53:37 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:23 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=asianet-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:23 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:23 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:24 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=b4u-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:24 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:24 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:27 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=filmy&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:27 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:27 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:28 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=gemini-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:28 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:28 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:29 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=hbo&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:29 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:29 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:33 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=hbo-hits&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:33 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:33 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:38 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=india-talkies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:38 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:38 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:43 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=jalsha-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:43 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:43 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:49 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=jaya-movie&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:49 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:49 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=kiran-tv&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:49 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:50 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=ktv&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:50 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:50 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:50 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=ktv-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:50 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:50 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:51 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=maa-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:51 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:51 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:52 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=movies-now&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:52 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:52 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:53 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=movies-now-plus&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:53 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:53 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:53 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=movies-ok&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:53 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:53 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:54 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=raj-digital-plus&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:54 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:54 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:54 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=romedy-now&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:54 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:54 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:57 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=sony-max-2&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:57 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:57 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:57 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=sony-pix&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:57 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:57 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:58 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=star-gold&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:58 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:58 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:55:59 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=star-gold-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:55:59 UTC] PHP Stack trace:
+[21-Apr-2017 19:55:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:55:59 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:00 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:00 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:00 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:01 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:01 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:01 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:02 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=star-movies-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:02 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:02 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:04 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=utv-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:04 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:04 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:05 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=utv-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:05 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:05 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:05 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=wb&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:05 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:05 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:06 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=world-movies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:06 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:06 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:07 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-action&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:07 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:07 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:07 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:07 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:07 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:08 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-cinema-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:08 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:08 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:09 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-classic&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:09 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:09 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:14 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-premier&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:14 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:14 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:15 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-studio-hd&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:15 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:15 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[21-Apr-2017 19:56:20 UTC] PHP Warning:  file_get_contents(https://indian-tv-schedule-api.appspot.com/schedule?channel=zee-talkies&date=2017-04-22&details=True&meta=True&indent=): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/ubuntu/workspace/movieFilter/php/imdbc1.php on line 19
+[21-Apr-2017 19:56:20 UTC] PHP Stack trace:
+[21-Apr-2017 19:56:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:0
+[21-Apr-2017 19:56:20 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/movieFilter/php/imdbc1.php:19
+[26-Apr-2017 08:56:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amr'@'localhost' (using password: YES) in /home/ubuntu/workspace/movieFilter/php/test.php on line 10
+[26-Apr-2017 08:56:04 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:04 UTC] PHP   2. include() /home/ubuntu/workspace/movieFilter/php/userConfig.php:3
+[26-Apr-2017 08:56:04 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/movieFilter/php/test.php:10
+[26-Apr-2017 08:56:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/movieFilter/php/userConfig.php on line 5
+[26-Apr-2017 08:56:04 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:04 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/movieFilter/php/userConfig.php:5
+[26-Apr-2017 08:56:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amr'@'localhost' (using password: YES) in /home/ubuntu/workspace/movieFilter/php/test.php on line 10
+[26-Apr-2017 08:56:13 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:13 UTC] PHP   2. include() /home/ubuntu/workspace/movieFilter/php/userConfig.php:3
+[26-Apr-2017 08:56:13 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/movieFilter/php/test.php:10
+[26-Apr-2017 08:56:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/movieFilter/php/userConfig.php on line 5
+[26-Apr-2017 08:56:13 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:13 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/movieFilter/php/userConfig.php:5
+[26-Apr-2017 08:56:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amr'@'localhost' (using password: YES) in /home/ubuntu/workspace/movieFilter/php/test.php on line 10
+[26-Apr-2017 08:56:23 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:23 UTC] PHP   2. include() /home/ubuntu/workspace/movieFilter/php/userConfig.php:3
+[26-Apr-2017 08:56:23 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/movieFilter/php/test.php:10
+[26-Apr-2017 08:56:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/movieFilter/php/userConfig.php on line 5
+[26-Apr-2017 08:56:23 UTC] PHP Stack trace:
+[26-Apr-2017 08:56:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/userConfig.php:0
+[26-Apr-2017 08:56:23 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/movieFilter/php/userConfig.php:5
+[05-Aug-2018 06:10:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amritsmail2002'@'localhost' (using password: YES) in /home/ubuntu/workspace/movieFilter/php/test.php on line 10
+[05-Aug-2018 06:10:41 UTC] PHP Stack trace:
+[05-Aug-2018 06:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[05-Aug-2018 06:10:41 UTC] PHP   2. include() /home/ubuntu/workspace/movieFilter/php/signup.php:4
+[05-Aug-2018 06:10:41 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/movieFilter/php/test.php:10
+[05-Aug-2018 06:10:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/movieFilter/php/signup.php on line 11
+[05-Aug-2018 06:10:41 UTC] PHP Stack trace:
+[05-Aug-2018 06:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[05-Aug-2018 06:10:41 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/movieFilter/php/signup.php:11
+[05-Aug-2018 06:19:40 UTC] PHP Parse error:  syntax error, unexpected '$pass' (T_VARIABLE) in /home/ubuntu/workspace/movieFilter/php/test.php on line 6
+[05-Aug-2018 06:19:40 UTC] PHP Stack trace:
+[05-Aug-2018 06:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/signup.php:0
+[21-Sep-2018 18:46:35 UTC] PHP Fatal error:  Call to undefined function session_0destroy() in /home/ubuntu/workspace/movieFilter/php/logout.php on line 3
+[21-Sep-2018 18:46:35 UTC] PHP Stack trace:
+[21-Sep-2018 18:46:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/logout.php:0
+[21-Sep-2018 18:46:47 UTC] PHP Fatal error:  Call to undefined function session_0destroy() in /home/ubuntu/workspace/movieFilter/php/logout.php on line 3
+[21-Sep-2018 18:46:47 UTC] PHP Stack trace:
+[21-Sep-2018 18:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/movieFilter/php/logout.php:0

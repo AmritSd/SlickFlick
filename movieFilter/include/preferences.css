@@ -1,0 +1,44 @@
+.alert-danger
+{
+    text-align:center;
+
+}
+.alert-info
+{
+    height:40px;
+    margin:3px;
+    font-size:120%;
+    width:40%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+input[type=checkbox]
+{
+    transform: scale(2);
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    padding: 10px;
+    position:relative;
+    left:150px;
+    top:-23px;
+    background:transparent;
+
+}
+#showButton
+{
+    background-color:transparent;
+    position:relative;
+    left:150px;
+    border-radius:4px;
+    color:inherit;
+    border:solid;
+    border-color:inherit;
+    border-width:2px;
+}
+#submitButton
+{
+    position:relative;
+    left:45%;
+}

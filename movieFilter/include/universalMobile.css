@@ -1,0 +1,104 @@
+#heading
+{
+	background-image:url("jumbo.jpg");
+	background-size: cover;
+
+	background-repeat: no-repeat;
+
+	position:relative;
+	height:270px;
+	top:0;
+	margin-bottom:30px;
+}
+#title
+{
+	font-size:5vmax;
+	color:white;
+
+}
+#jumbotron
+{
+	background:transparent;
+}
+body
+{
+	background-color:rgb(200,200,255);
+	height:100%;
+}
+#alert
+{
+    position:absolute;
+    top:47%;
+    width:100%;
+    text-align:center;
+
+}
+#welcometag
+{
+	text-align:right;
+}
+
+#english,#hindi,#regional,#howToUse,#timeFilter
+{
+	display:inline-block;
+	
+	position:relative;
+	bottom:50px;
+	opacity:0.8;
+	margin:1px;
+
+}
+
+#howToUse
+{
+	position:relative;
+	bottom:23vh;
+	left:5vw;
+
+}
+#tutorial
+{
+	position:absolute;
+	background-color:rgba(30,150,200,0.8);
+	font-family:Comic Sans MS;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	width:100%;
+	height:100%;
+	color:rgb(250, 150, 30);
+	display:none;
+
+}
+#navbar-usage
+{
+	font-size:150%;
+	position:relative;
+	left:3%;
+	bottom:2%;
+	
+}
+#imdb-filter
+{
+	position:relative;
+	left:8%;
+	bottom:2%;
+}
+#about
+{
+	position:relative;
+	top:17%;
+	font-size:230%;
+	left:10%;
+	color:rgb(250,200,50);
+}
+
+#card-description
+{
+	font-size:120%;
+	position:relative;
+	top:35%;
+	left:5%;
+
+}
