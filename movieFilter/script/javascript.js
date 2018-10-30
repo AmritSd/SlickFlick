@@ -77,7 +77,7 @@ function showData(div,info)
 	var temp = info["showTitle"].replace(/\s+/g, "-");
 	var videoId;
 	var frame = document.createElement("iframe");
-	$.get("https://www.googleapis.com/youtube/v3/search?part=id&key=AIzaSyAduNvju8hFZWWLKP-tUrEcCEayCKsTsk0&q=" + temp + "-trailer",function(data){
+	$.get("https://www.googleapis.com/youtube/v3/search?part=id&key=seriously_not_my_api_key I_removed_it_after_I_got_an_email=" + temp + "-trailer",function(data){
 		videoId = data["items"][0]["id"]["videoId"];
 		
 		frame.setAttribute("src","https://www.youtube.com/embed/" + videoId);
