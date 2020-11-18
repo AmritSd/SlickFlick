@@ -6,7 +6,7 @@ Provide all the tools for a user to decide which movie to watch on television wi
 
 # Features
 - Quick filter movies on the basis on IMDb score
-![alt text](/media/ezgif.com-gif-maker%20(1).gif)
+![alt text](SlickFlick/media/ezgif.com-gif-maker%20(1).gif)
 - View trailers, description and other information
 ![alt text](/media/trailerViewDemo.gif)
 - Toggle between English, Hindi and Regional channels
