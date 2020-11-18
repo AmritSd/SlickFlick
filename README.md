@@ -4,7 +4,11 @@
 Provide all the tools for a user to decide which movie to watch on television without having to browse Tv-Schedules and lookup trailers, ratings ...
 
 # Languages Used
-PHP,JavaScript (JQuery) ,MySQL ,HTML ,and CSS
+- PHP
+- JavaScript (JQuery)
+- MySQL 
+- HTML
+- CSS
 # Features
 - ### Quick filter movies on the basis on IMDb score
 ![alt text](/media/imdbFilter.gif)
