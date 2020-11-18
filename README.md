@@ -12,5 +12,5 @@ PHP,JavaScript (JQuery), HTML ,and CSS
 ![alt text](/media/trailerViewDemo.gif)
 - ### Toggle between English, Hindi and Regional channels
 ![alt text](/media/quickSelects.gif)
-- ### Sign up and view results from preffered channels only
+- ### Sign up and view results from preferred channels only
 ![alt text](/media/preferencesDemo.gif)
