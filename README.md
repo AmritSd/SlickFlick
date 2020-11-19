@@ -2,7 +2,7 @@
 A web application to filter and display movies airing on Indian television on the basis of IMDB score. This allows the user to quickly decide which movie to watch.
 
 # Goals
-Provide all the tools for a user to decide which movie to watch on television without having to browse Tv-Schedules and lookup trailers, ratings ...
+Provide all the tools for a user to decide which movie to watch on television without having to browse Tv-schedules and lookup trailers, ratings ...
 
 # Languages Used
 - PHP
